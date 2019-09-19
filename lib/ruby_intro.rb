@@ -134,6 +134,4 @@ class BookInStock
     return price_s
     
   end
- 
-  
 end
