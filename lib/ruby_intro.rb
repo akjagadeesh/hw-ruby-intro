@@ -137,8 +137,3 @@ class BookInStock
  
   
 end
-
-
-
-a = sum_to_n?([1,2],4)
-puts(a)
